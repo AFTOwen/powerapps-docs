@@ -24,7 +24,7 @@ search.app:
 
 
 ## A sample is provided for this scenario, but you can also create a new app or start from an existing app.
-[Download the sample](./media/sp_doclib/SPDocLib_BlogApp.msapp)
+[Download the sample](./media/sp_doclib/spdoclib_blogapp.msapp)
 
 1.	In [PowerApps Studio](https://create.powerapps.com/studio/), click or tap Open in the left pane.
 2.	Click or tap Browse, then open the SPDocLib_BlogApp.msapp file that you downloaded.
