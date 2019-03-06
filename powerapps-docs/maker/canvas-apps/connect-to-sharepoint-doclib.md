@@ -30,19 +30,30 @@ search.app:
 2.	Click or tap Browse, then open the SPDocLib_BlogApp.msapp file that you downloaded.
 3.	Click or tap Allow, so that PowerApps can use SharePoint.
 4.	On the ribbon, on the View tab, click or tap Data sources.
+
  ![View Data Sources](./media/sp_doclib/view_ds.png)
+ 
 5.	In the Data panel, click or tap Add Data Source.
 6.	We'll show you two ways to connect to the list, depending on whether PowerApps already established a SharePoint connection for you:
 *	If you see a SharePoint connection already, click or tap that connection.
+
   ![Tap connection](./media/sp_doclib/Data_SP_NewConn.png)
+  
 *	If you don't see a SharePoint connection, click or tap New connection.
 7.	Then click or tap SharePoint and click or tap Create.
+
   ![New Connection](./media/sp_doclib/Data_Create.png)
+  
 8.	Enter the URL for the SharePoint Online site that contains a document library or select a recent site (be sure the document library contains documents), then click or tap Connect.
+
  ![Connect to Data](./media/sp_doclib/Data_Connect.png)
+ 
 9.	Select the Documents list, then click or tap Connect.
+
  ![Choose a list](./media/sp_doclib/Data_Choose.png)
+ 
 10.	Click or tap the ellipsis (. . .) next to Documents, then click or tap Refresh.
+
  ![Choose a list](./media/sp_doclib/Doc_ellipsis.png)
 
 
