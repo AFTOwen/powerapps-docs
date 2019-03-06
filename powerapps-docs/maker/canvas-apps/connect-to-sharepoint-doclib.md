@@ -61,7 +61,7 @@ A sample is provided for this scenario, but you can also create a new app or sta
 ## Limitations:
 *	PDF Viewer does not support viewing PDFs from SharePoint Online document libraries
 *	Mobile devices and Windows 10 App limitations:
-  * Document Library List content will show up in a Gallery, however, to view content, you will need to use the [Launch Command](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/functions/function-param) to display the content in a browser on the mobile device 
-  * The download function is not supported for mobile devices 
+  + Document Library List content will show up in a Gallery, however, to view content, you will need to use the [Launch Command](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/functions/function-param) to display the content in a browser on the mobile device 
+  + The download function is not supported for mobile devices 
 *	Adding files from PowerApps to a SharePoint Online document library is not supported
 *	SharePoint Online support only, On-Premise is not supported
