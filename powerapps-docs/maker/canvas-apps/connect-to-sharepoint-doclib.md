@@ -37,24 +37,24 @@ search.app:
 6.	We'll show you two ways to connect to the list, depending on whether PowerApps already established a SharePoint connection for you:
 *	If you see a SharePoint connection already, click or tap that connection.
 
-  ![Tap connection](./media/sp_doclib/Data_SP_NewConn.png)
+  ![Tap connection](./media/sp_doclib/data_sp_newconn.png)
   
 *	If you don't see a SharePoint connection, click or tap New connection.
 7.	Then click or tap SharePoint and click or tap Create.
 
-  ![New Connection](./media/sp_doclib/Data_Create.png)
+  ![New Connection](./media/sp_doclib/data_create.png)
   
 8.	Enter the URL for the SharePoint Online site that contains a document library or select a recent site (be sure the document library contains documents), then click or tap Connect.
 
- ![Connect to Data](./media/sp_doclib/Data_Connect.png)
+ ![Connect to Data](./media/sp_doclib/data_connect.png)
  
 9.	Select the Documents list, then click or tap Connect.
 
- ![Choose a list](./media/sp_doclib/Data_Choose.png)
+ ![Choose a list](./media/sp_doclib/data_choose.png)
  
 10.	Click or tap the ellipsis (. . .) next to Documents, then click or tap Refresh.
 
- ![Choose a list](./media/sp_doclib/Doc_ellipsis.png)
+ ![Choose a list](./media/sp_doclib/doc_ellipsis.png)
 
 
 ## Limitations:
