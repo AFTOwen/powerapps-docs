@@ -137,6 +137,8 @@
           href: ./canvas-apps/add-manage-connections.md
         - name: Connect to SharePoint
           href: ./canvas-apps/connect-to-sharepoint.md
+        - name: Connect to SharePoint Document Library
+          href: ./canvas-apps/connect-to-sharepoint-doclib.md
         - name: Prepare Excel data
           href: ./canvas-apps/how-to-excel-tips.md
         - name: Delegation
