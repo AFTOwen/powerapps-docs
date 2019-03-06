@@ -15,15 +15,16 @@ search.app:
   - PowerApps
 ---
 # Connect to SharePoint document libraries from PowerApps
-[SharePoint Online document libraries](https://support.office.com/en-us/article/What-is-a-document-library-3b5976dd-65cf-4c9e-bf5a-713c10ca2872) are now supported in Canvas apps. Document libraries show up from the data sources panel when you select a SharePoint Online list.  Your end users can view a listing of files that are in the SharePoint document library (if they have permissions to do so). Follow these steps to get started.
+[SharePoint Online document libraries](https://support.office.com/en-us/article/What-is-a-document-library-3b5976dd-65cf-4c9e-bf5a-713c10ca2872) are now supported in Canvas apps. Document libraries show up from the data sources panel when you select a SharePoint Online list.  Your end users can view a listing of files that are in the SharePoint document library (if they have permissions to do so). 
 
 ## SharePoint Document Library supported types in the web player:
-*	Images
-*	Videos
+*	Image
+*	Video
 *	Audio
 
 
-## A sample is provided for this scenario, but you can also create a new app or start from an existing app.
+## Follow these steps to get started
+A sample is provided for this scenario, but you can also create a new app or start from an existing app.
 [Download the sample](./media/sp_doclib/spdoclib_blogapp.msapp)
 
 1.	In [PowerApps Studio](https://create.powerapps.com/studio/), click or tap Open in the left pane.
